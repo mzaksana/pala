@@ -6,5 +6,5 @@ target/
 *.logs
 *.iml
 .idea/
-.out/
+out/
 .eclipse
